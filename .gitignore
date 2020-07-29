@@ -1,3 +1,4 @@
 .vscode
 venvfcc
 __pycache__
+adult.data.csv
